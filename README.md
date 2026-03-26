@@ -1,18 +1,59 @@
-# 💫 About Me:
-Hi, I’m Anish Hajare – a Software Engineer with 4+ years of backend development experience, currently pursuing my Master’s in Software Engineering in Germany.<br><br>💻 I work with Node.js, TypeScript, PostgreSQL, MongoDB, Docker, AWS<br>⚡ Interested in AI, automation, and scalable systems<br>🌱 Always learning & experimenting with new tech
+# Hey, I'm Anish 👋
 
+**Backend Engineer · AI Tinkerer · Master's Student in Germany**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Anish Hajare) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anish.hajare9@gmail.com) 
+I'm a software engineer with 4+ years of experience building backend systems that actually scale. Currently pursuing my Master's in Software Engineering at Hof University, Germany — and exploring the intersection of backend development and AI.
 
-# 💻 Tech Stack:
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anishhajare&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=anishhajare&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anishhajare&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I care about clean APIs, well-structured databases, and building things that solve real problems.
+
+📍 Munich, DE &nbsp;·&nbsp; 📬 [anish.hajare9@gmail.com](mailto:anish.hajare9@gmail.com) &nbsp;·&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/anishhajare/)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anishhajare&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### What I work with
+
+**Backend & Frameworks**
+`TypeScript` `Node.js` `NestJS` `Express.js` `Next.js` `REST APIs` `GraphQL`
+
+**Databases**
+`PostgreSQL` `MongoDB` `Redis` `DynamoDB`
+
+**Cloud & DevOps**
+`Docker` `Kubernetes` `AWS` `Terraform` `CI/CD` `CloudFlare`
+
+**AI & LLM Tooling**
+`LangChain` `Vector Databases` `Langfuse` `Google Gemini` `Claude Code`
+
+---
+
+### Featured Projects
+
+#### 🤖 AI-Powered E-Commerce Shopping Assistant
+An intelligent shopping assistant built with a LangChain agent architecture. The agent autonomously decides when to query the product database vs. generate responses using Google Gemini. Includes a React chat interface for real-time conversational product discovery.
+
+**Stack:** `Node.js` `LangChain` `Google Gemini` `MongoDB Atlas` `React`
+
+#### 🔐 Authentication & Authorization System
+A production-grade auth system with JWT access tokens, refresh-token rotation, email-based OTP verification via Google OAuth2, multi-device session management, and rate limiting. Built with security-first design.
+
+**Stack:** `Node.js` `Express` `MongoDB` `JWT` `Google OAuth2`
+
+---
+
+### A bit more about me
+
+- 🔭 &nbsp;Most recently worked at **Bridgenext** and **Coditas**, building scalable backend services
+- 🧠 &nbsp;Currently diving deeper into **AI agent architectures** and **LLM-powered applications**
+- ⚡ &nbsp;I like optimizing things — took API response times down ~30% through query tuning at my last role
+- 🌱 &nbsp;Learning German (B1 and counting) alongside software engineering
+- 🎓 &nbsp;Wrapping up my Master's and looking for a **mandatory internship** in full-stack / AI-driven development
+
+---
+
+### Let's connect
+
+If you're working on something interesting with backend systems or AI — I'd love to chat.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anishhajare/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anish.hajare9@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnishHajare)
